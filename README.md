@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Inglan2&theme=dark)](https://git.io/streak-stats)
 
 <img src="https://myreadme.vercel.app/api/embed/Inglan2?panels=userstatistics,toprepositories,toplanguages"/>
 
