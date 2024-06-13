@@ -1,7 +1,6 @@
 ```yaml
-me:
-  name: Ingo
-  location: AU
+name: Ingo
+location: AU
 hobbies:
   - programing
   - home automation
