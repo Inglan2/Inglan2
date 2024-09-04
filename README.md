@@ -11,8 +11,6 @@ hobbies:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Inglan2&theme=dark)](https://git.io/streak-stats)
 
-<img src="https://myreadme.vercel.app/api/embed/Inglan2?panels=userstatistics,toprepositories,toplanguages"/>
-
 [![Stack Overflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/19296596)
 ](https://stackoverflow.com/users/19296596/inglan)
 
